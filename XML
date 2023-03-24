@@ -1,0 +1,40 @@
+<personas>
+  <persona id="1">
+    <nombre>María</nombre>
+    <apellido>González</apellido>
+    <edad>25</edad>
+    <sexo>Mujer</sexo>
+    <direccion>
+      <calle>Calle Mayor</calle>
+      <numero>10</numero>
+      <piso>3</piso>
+      <puerta>4</puerta>
+      <codigo_postal>28013</codigo_postal>
+      <ciudad>Madrid</ciudad>
+    </direccion>
+    <telefono>
+      <tipo>Móvil</tipo>
+      <numero>666777888</numero>
+    </telefono>
+    <email>maria.gonzalez@example.com</email>
+  </persona>
+  <persona id="2">
+    <nombre>Pedro</nombre>
+    <apellido>Rodríguez</apellido>
+    <edad>32</edad>
+    <sexo>Hombre</sexo>
+    <direccion>
+      <calle>Calle San Antonio</calle>
+      <numero>23</numero>
+      <piso>1</piso>
+      <puerta>2</puerta>
+      <codigo_postal>08001</codigo_postal>
+      <ciudad>Barcelona</ciudad>
+    </direccion>
+    <telefono>
+      <tipo>Trabajo</tipo>
+      <numero>932456789</numero>
+    </telefono>
+    <email>pedro.rodriguez@example.com</email>
+  </persona>
+</personas>
